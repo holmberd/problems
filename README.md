@@ -1,2 +1,2 @@
-# problems
-Collection of problems and solutions.
+# Open Schedule
+Collection of open schedule machine problems, NP-Hard
